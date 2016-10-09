@@ -1,0 +1,12 @@
+c:\users\james\documents\visual studio 2013\Projects\arithmetic\arithmetic\bin\Debug\arithmetic.exe.config
+c:\users\james\documents\visual studio 2013\Projects\arithmetic\arithmetic\bin\Debug\arithmetic.exe
+c:\users\james\documents\visual studio 2013\Projects\arithmetic\arithmetic\bin\Debug\arithmetic.pdb
+c:\users\james\documents\visual studio 2013\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.Form1.resources
+c:\users\james\documents\visual studio 2013\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.Properties.Resources.resources
+c:\users\james\documents\visual studio 2013\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2013\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.exe
+c:\users\james\documents\visual studio 2013\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.pdb
+C:\Users\James\Documents\Visual Studio 2013\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\Projects\arithmetic\arithmetic\bin\Debug\arithmetic.exe.config
+C:\Users\James\Desktop\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.exe
+C:\Users\James\Desktop\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.pdb
